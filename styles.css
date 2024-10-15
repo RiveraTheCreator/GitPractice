@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
+    background-color: #c1ddf6;
     color: #333;
     margin: 0;
     padding: 0;
@@ -21,7 +21,7 @@ main {
 }
 
 .sidebar {
-    background-color: #ffeb3b;
+    background-color: #761f1f;
     padding: 1rem;
     border-radius: 8px;
 }
